@@ -20,4 +20,4 @@ app.get('/', function(req, res, next){
     res.sendfile('static/html/main.html');
 });
 
-app.listen(3000);
+app.listen(80);
