@@ -14,10 +14,10 @@ app.configure(function(){
     app.use(errorHandler);
 });
 
-app.use('/static', express.static('./static'));
+app.use('/static', express.static(__dirname + '/static'));
 
 app.get('/', function(req, res, next){
-    res.sendfile('static/html/main.html');
+    res.sendfile(__dirname + '/static/html/main.html');
 });
 
 app.listen(80);
