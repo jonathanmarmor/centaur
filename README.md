@@ -3,10 +3,10 @@
 A website demonstrating Kraig Grady's "Centaur" music tuning system.
 
 ## Hear it
-- Turn your volume down
-- Open Google Chrome or Safari
-- Visit [http://centaur.jonathanmarmor.com](http://centaur.jonathanmarmor.com)
-- Turn your volume back up carefully
+1. Turn your volume down
+1. Open Google Chrome or Safari
+1. Visit [http://centaur.jonathanmarmor.com](http://centaur.jonathanmarmor.com)
+1. Turn your volume back up carefully
 
 ## Music rules
 - There are three voices
