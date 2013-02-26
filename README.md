@@ -8,7 +8,7 @@ A website demonstrating Kraig Grady's "Centaur" music tuning system.
 1. Visit [http://centaur.jonathanmarmor.com](http://centaur.jonathanmarmor.com)
 1. Turn your volume back up carefully
 
-## Music rules
+## How the music works
 - There are three voices
 - All voices obey the following rules:
 - A duration is chosen for each note, with no input from what has come before
@@ -37,4 +37,5 @@ Locally:
     fab -H <hostname> centaur.install
 
 ![Centaur](http://images.epilogue.net/users/jerry/centaur.jpg)
+
 (I found this photograph of a Centaur on the internet. I hope he doesn't mind me using his likeness and the photographer is happy splitting all proceeds 50/50.)
